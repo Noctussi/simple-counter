@@ -1,0 +1,24 @@
+div {
+    border-radius: 20px;
+    width: 70%;
+    height: 400px;
+    margin: 50px auto;
+    background: linear-gradient(35deg, #ccffff, #ffcccc);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+  	}
+
+
+.button {
+    background: none;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+p {
+    font-size: 70px;
+    font-weight: bolder;
+}
